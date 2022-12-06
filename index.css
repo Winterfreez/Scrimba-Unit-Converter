@@ -1,3 +1,25 @@
 body {
     margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: #6943FF;
+    color: white;
+}
+
+
+
+#convert-btn {
+    width: 100px;
+    padding: 9px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.output-box {
+    background-color: white;
+    margin: 2px 0;
 }
